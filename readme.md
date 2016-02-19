@@ -1,6 +1,6 @@
 # parse-str-unlimited：a better parse_str alternative
 
-parse_str 遵循 php.ini max_input_vars 限制实在荒谬透顶。感谢 [sebastianwebb](https://gist.github.com/sebastianwebb) 在 <https://gist.github.com/rubo77/6821632> 中的精采评论，这个无限制版 parse_str_unlimit 的所有功能都归功于他。我建立这个git-hub项目，只是希望能让更多的人容易找到这个好用的替代函数。
+parse_str 遵循 php.ini max_input_vars 限制实在荒谬透顶。感谢 [sebastianwebb](https://gist.github.com/sebastianwebb) 在 <https://gist.github.com/rubo77/6821632> 中的精采评论，这个无限制版 parse_str_unlimit 的所有功能都归功于他。建立这个项目的目的，一是希望引出更好的实现，二是希望更多的人能更容易地找到这个好用的工具函数。
 
 为方便大家copy/paste，我把代码也顺手粘到这里：
 
